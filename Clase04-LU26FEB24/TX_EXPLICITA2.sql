@@ -1,0 +1,21 @@
+
+
+SELECT * FROM EDUCA2..MATRICULA;
+GO
+
+BEGIN TRAN;
+GO
+
+SELECT * FROM EDUCA2..MATRICULA;
+GO
+
+INSERT INTO MATRICULA(cur_id,alu_id,emp_id,mat_tipo,mat_fecha,mat_precio,mat_cuotas)
+VALUES(1,10,6,'REGULAR','20240226',1000,3);
+GO
+
+SELECT * FROM EDUCA2..MATRICULA;
+GO
+
+COMMIT;
+GO
+
