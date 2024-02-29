@@ -47,8 +47,14 @@ GO
 
 SELECT C.*, 
 	(C.cur_vacantes - C.cur_matriculados) "Disponibles",
+	(C.cur_matriculados * C.cur_precio) "Ingreso estimado"
+FROM EDUCA2..CURSO C;
+GO
+
+SELECT C.*, 
+	(cur_vacantes - cur_matriculados) "Disponibles",
 	(cur_matriculados * cur_precio) "Ingreso estimado"
-FROM EDUCA..CURSO C;
+FROM EDUCA2..CURSO C;
 GO
 
 
