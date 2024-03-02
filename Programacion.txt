@@ -3,11 +3,11 @@ PROGRAMACION DE CLASES
 Clase 1: 19.FEB.24: 
 Clase 2: 21.FEB.24: 
 Clase 3: 23.FEB.24: Practica 1
-Clase 4: 26.FEB.24: Practica 2
-Clase 5: 28.FEB.24: 
-Clase 6: 01.MAR.24: Practica 3
-Clase 7: 04.MAR.24: Practica 4
-Clase 8: 06.MAR.24: Examen Final
+Clase 4: 26.FEB.24: 
+Clase 5: 28.FEB.24: Practica 2
+Clase 6: 01.MAR.24: 
+Clase 7: 06.MAR.24: Practica 3
+Clase 8: 08.MAR.24: Practica 4, Examen Final
 
 
 NOTA
